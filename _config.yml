@@ -57,9 +57,9 @@ highlight_theme: github
 author: 王春龙
 organization: 武汉理工大学
 organization_url: 
-github_username: YuxiangtianT
+github_username: iridescent-wang
 location: Wuhan, China
-email: 1229856660@qq.com
+email: wcl1161960501@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -143,8 +143,8 @@ comments_provider: gitalk
 #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: YuxiangtianT
-    repo: YuxiangtianT.github.io
+    owner: iridescent-wang
+    repo: iridescent-wang.github.io
     clientID: 04daf7c9a13454b7ec04
     clientSecret: c486f6164bb4f3afc84263ab3aef94f76d4d5ece
     admin: 
