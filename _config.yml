@@ -145,8 +145,8 @@ comments_provider: gitalk
 gitalk:
     owner: iridescent-wang
     repo: iridescent-wang.github.io
-    clientID: f751af86319bad6c687b
-    clientSecret: 836e36ea89474f96e456be99dba80445e51796f3
+    clientID: 9a503a3182852d810bc8
+    clientSecret: 9593ec5d1406545900263fcfdb068a56c34c3aa7
     admin: 
 # utterances 配置参考：https://utteranc.es/
 # utterances:
