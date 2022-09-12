@@ -2,13 +2,13 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: 喻向天
+keywords: 王春龙
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-这是喻向天的个人博客
+这是王春龙的个人博客
 
 专门记录平时学习的知识以及遇到的问题
 
