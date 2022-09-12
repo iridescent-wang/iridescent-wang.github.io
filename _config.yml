@@ -147,7 +147,7 @@ gitalk:
     repo: iridescent-wang.github.io
     clientID: 9a503a3182852d810bc8
     clientSecret: 9593ec5d1406545900263fcfdb068a56c34c3aa7
-    admin: 
+    admin: iridescent-wang
 # utterances 配置参考：https://utteranc.es/
 # utterances:
 #     repo: mzlogin/blog-comments
