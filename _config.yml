@@ -5,9 +5,9 @@ baseurl:
 url: https://iridescent-wang.github.io
 date_format: "ordinal"
 title: 实验室
-subtitle: "王春龙的个人博客"
-description: "王春龙的个人博客"
-keywords: 个人博客，王春龙
+subtitle: "多媒体与系统安全 实验室"
+description: "多媒体与系统安全 实验室"
+keywords: 多媒体与系统安全 实验室
 timezone: Asia/Wuhan
 encoding: "utf-8"
 # 页面左下角显示的年份
