@@ -4,10 +4,10 @@
 baseurl:
 url: https://iridescent-wang.github.io
 date_format: "ordinal"
-title: 实验室
-subtitle: "多媒体与系统安全 实验室"
-description: "多媒体与系统安全 实验室"
-keywords: 多媒体与系统安全 实验室
+title: Lab
+subtitle: "Multimedia and System Security Lab"
+description: "Multimedia and System Security Lab"
+keywords: Multimedia and System Security
 timezone: Asia/Wuhan
 encoding: "utf-8"
 # 页面左下角显示的年份
