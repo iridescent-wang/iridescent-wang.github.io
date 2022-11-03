@@ -69,13 +69,13 @@ navs:
     href: /
     label: News
 
-  -
-    href: /categories/
-    label: 分类
+#   -
+#     href: /categories/
+#     label: 分类
 
   -
     href: /archives/
-    label: 归档
+    label: archives
 
   -
     href: /open-source/
