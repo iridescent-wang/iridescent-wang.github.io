@@ -54,10 +54,10 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 王春龙
-organization: 武汉理工大学
+author: JunWei Zhou
+organization: Wuhan University of Technology
 organization_url: 
-github_username: iridescent-wang
+github_username: Meinherz
 location: Wuhan, China
 email: wcl1161960501@qq.com
 
@@ -67,7 +67,7 @@ email: wcl1161960501@qq.com
 navs:
   -
     href: /
-    label: 首页
+    label: News
 
   -
     href: /categories/
@@ -79,19 +79,19 @@ navs:
 
   -
     href: /open-source/
-    label: 开源
+    label: Project
 
   -
     href: /wiki/
-    label: 维基
+    label: Publication
 
   -
     href: /links/
-    label: 链接
+    label: Members
 
   -
     href: /about/
-    label: 关于
+    label: Contact
 
 # ---------------- #
 #       RSS        #
